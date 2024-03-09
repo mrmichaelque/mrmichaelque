@@ -4,11 +4,17 @@
 - 🌱 I’m currently learning project management and DevOps. 
 - 💞️ I’m looking to collaborate on building tools and gathering resources for newbies like me. 
 - 📫 How to reach me:
-  --Email: workingqueue@outlook.com
-  --Twitter/X: @workingqueue
-  --Instagram: @porqueserasera
+  --Email: 
+  --Twitter/X: 
+  --Instagram: 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love baking! 
+- ⚡ Fun fact: I love baking!
+
+## Connect with Me
+- !Email (workingqueue@outlook.com)
+- !LinkedIn (https://www.linkedin.com/in/michaelcque/)
+- !Twitter @workingqueue
+- !Instagram @porqueserasera
 
 ## About Me
 - Experienced **Finance Service Professional** with a passion for numbers and data-driven decision-making.
